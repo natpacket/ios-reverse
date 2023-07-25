@@ -51,6 +51,28 @@
                ReferencedContainer = "container:testwechat.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "73238FC22A6FA62F00EE9DA4"
+               BuildableName = "injectTests.xctest"
+               BlueprintName = "injectTests"
+               ReferencedContainer = "container:testwechat.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "730D5C092A6FB56D008E4778"
+               BuildableName = "InjectTests.xctest"
+               BlueprintName = "InjectTests"
+               ReferencedContainer = "container:testwechat.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction

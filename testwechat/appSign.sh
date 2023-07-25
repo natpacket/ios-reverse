@@ -66,6 +66,10 @@ do
 done
 fi
 
+# 注入
+echo "注入的二进制文件 $TARGET_APP_PATH/$APP_BINARY"
+yololib "$TARGET_APP_PATH/$APP_BINARY" "Frameworks/Inject.framework/Inject"
+
 
 
 
